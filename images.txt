@@ -9,3 +9,4 @@ openresty/openresty
 ubuntu:xenial
 centos/python-36-centos7:1
 centos:7
+elasticsearch:8.17.2
