@@ -14,3 +14,4 @@ mysql:5.6
 openjdk:17
 elasticsearch:8.17.4
 apache/shardingsphere-proxy:5.5.2
+ghcr.io/apache/shardingsphere-proxy:670eaec3fcac3a26c0d1014f9d5f99e92d464a9a
