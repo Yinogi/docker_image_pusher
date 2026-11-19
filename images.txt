@@ -1,1 +1,1 @@
-elasticsearch:8.19.15
+openjdk:8
